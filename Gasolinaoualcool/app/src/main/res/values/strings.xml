@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gasolina ou alcool</string>
+    <string name="t_alcool">Valor do etanol</string>
+    <string name="textgasol">Valor da gasolina</string>
+    <string name="textResp">É mais vantagem usar </string>
+    <string name="calc_txt">Verificar</string>
+    <string name="text_about">Esta é a tela de sobre</string>
+
+</resources>

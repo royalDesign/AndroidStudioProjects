@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idade de cachorro</string>
+    <string name="text_head_v">Informe a idade de seu cachorro para saber o equivalente em idade de humanos.</string>
+    <string name="btn_calc">Calcular idade</string>
+</resources>

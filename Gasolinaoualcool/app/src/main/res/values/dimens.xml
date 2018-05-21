@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textHead">18sp</dimen>
+    <dimen name="text_resp_dim">20sp</dimen>
+    <dimen name="text_d_about">25dp</dimen>
+</resources>
